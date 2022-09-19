@@ -14,3 +14,5 @@ Tic-tac-toe is known all over the world. Below are the main rules that may be fa
 The example below shows how your program should work.
 Notice that after Enter the coordinates: comes the user input.
 
+![Alt Text](https://github.com/ritakialex/SimpleTicTacToe/blob/main/Tic-Tac-Toe%20example.gif)
+
