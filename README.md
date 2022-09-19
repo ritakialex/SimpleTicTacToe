@@ -1,6 +1,8 @@
 ## A simple implementation of the game in java
 
 ### Description
+A project from JetBrains Academy in hyperskill.org
+
 Tic-tac-toe is known all over the world. Below are the main rules that may be familiar to you.
 
 - Tic-tac-toe is a game played by two players on a 3x3 grid. One of the players is 'X', and the other player is 'O'. X plays first, then O takes the next turn, and so on.
