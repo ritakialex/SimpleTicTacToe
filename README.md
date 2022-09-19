@@ -11,7 +11,7 @@ Tic-tac-toe is known all over the world. Below are the main rules that may be fa
 - The first player that puts 3 X's or 3 O's in a straight line (including diagonals) wins the game.
 
 ### Example
-The example below shows how your program should work.
+The example below shows how the program works.
 Notice that after Enter the coordinates: comes the user input.
 
 ![Alt Text](https://github.com/ritakialex/SimpleTicTacToe/blob/main/Tic-Tac-Toe%20example.gif)
