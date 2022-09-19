@@ -1,5 +1,4 @@
-# SimpleTicTacToe
-A simple implementation of the game in java
+# A simple implementation of the game in java
 
 ### Description
 Tic-tac-toe is known all over the world. Below are the main rules that may be familiar to you.
